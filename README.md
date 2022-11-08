@@ -36,7 +36,7 @@
 </a>
   
 <br>
-<a href="#about-me">
+<a href="#badges">
 <img src="https://img.shields.io/badge/See More-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 </br>
@@ -48,11 +48,11 @@
  I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
 
 
-## Projects I am working on
+## Top Projects
 
-- abc
-- abcd
-- abcde
+- [Lighthouse](https://github.com/chitangchin/Lighthouse)
+- [Green Planet](https://github.com/chitangchin/Green-Planet)
+- [OnlyPans](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
 
 <br>
 
@@ -61,6 +61,15 @@
 </a>
 </br>
 
+
+## Articles
+- [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
+
+# Badges
+<details>
+    <summary><strong>Show/Hide all badges</strong></summary>
+
+        
 <!-- AWS -->
 <a href="https://aws.amazon.com/">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -146,13 +155,10 @@
 <a href="https://prometheus.io/">
 <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </a>
+  
+</details>
+ 
 
- 
- # About Me
- 
- I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
- 
- 
 <!--
 **chitangchin/Chitangchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
