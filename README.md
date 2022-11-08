@@ -4,7 +4,7 @@ I built my first computer at the age of 8 with a few old broken dell towers salv
 
 ### **Serverless Architecture: _AWS Lambda and AWS API Gateway_**
 I had the opportunity to host a talk about Serverless Architecture with AWS services
-You can find the talk here
+
 
 ### You can find me at
 Linkedin
