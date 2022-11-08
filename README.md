@@ -1,13 +1,11 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://media.giphy.com/media/k0wqGQXYce7R5hglaR/giphy.gif">
-  <img src="https://media.giphy.com/media/7xtZt4vTnP5geP4pN5/giphy.gif">
-</picture>
+# **Hi. I'm Brandon**
+
+I built my own computer when I was 6 years old with a few broken computers salvaging parts where needed. Since then, I have always tinker with hardware and grew my passion to code. I am currently working at Lighthouse as a Software Engineer where I am helping developers and companies monitor their **Kafka Clusters stability and efficiency**.
 
 
-
-
-
-
+### Where to see my work or reach out to me
+Linkedin
+Medium
 
 
 
