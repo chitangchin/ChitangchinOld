@@ -1,11 +1,10 @@
-# **Hi. I'm Brandon**
+# Hi. I'm Brandon
 
-I built my own computer when I was 6 years old with a few broken computers salvaging parts where needed. Since then, I have always tinker with hardware and grew my passion to code. I am currently working at Lighthouse as a Software Engineer where I am helping developers and companies monitor their **Kafka Clusters stability and efficiency**.
+I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
 
 
-### Where to see my work or reach out to me
-Linkedin
-Medium
+
+
 
 
 
