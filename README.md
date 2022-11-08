@@ -2,8 +2,14 @@
 
 I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
 
+### **Serverless Architecture: _AWS Lambda and AWS API Gateway_**
+I had the opportunity to host a talk about Serverless Architecture with AWS services
+You can find the talk here
 
-
+### You can find me at
+Linkedin
+Email
+Medium
 
 
 
