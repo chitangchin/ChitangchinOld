@@ -37,7 +37,7 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </a>
   
-      <a href="https://mui.com/">
+<a href="https://mui.com/">
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </a>
   
@@ -102,12 +102,12 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </a>
   
-  <a href="https://reactjs.org/">
+ <a href="https://reactjs.org/">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
   
- <a href="">
+<a href="https://mui.com/">
 <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
 </a>
 
@@ -262,11 +262,11 @@
 
 <div align="center">
   <h3>Terminals</h3>
-  <a href="https://git-scm.com/">
+<a href="https://git-scm.com/">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </a>
   
-    <a href="">
+<a href="https://learn.microsoft.com/en-us/powershell/">
 <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </a>
   
@@ -295,33 +295,6 @@
  
  
  
-
-
-
-<!-- Apollo GraphQL -->
-<a href="https://www.apollographql.com/">
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
-</a>
-
-
-<a href="https://www.chartjs.org/">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-</a>
-
-
-<a href="https://expressjs.com/">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</a>
-
-<a href="https://nodejs.org/en/">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</a>
-
-
-<a href="https://reactjs.org/">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
 
   
 
