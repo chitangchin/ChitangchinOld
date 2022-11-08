@@ -1,9 +1,66 @@
+<!-- Header image -->
 
-<h1 align='center'>
-  Hi. I'm Brandon
-</h1>
+<div align='center'>
 
-  <p align='center'>
+<a href="https://www.linkedin.com/in/chitangchin/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@chitangb.chin">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+  
+</div>
+
+#
+
+<div align='center'>
+
+<a href="https://www.javascript.com/">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>
+
+<a href="https://nextjs.org/">
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+</a>
+
+<a href="https://reactjs.org/">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</a>
+
+<a href="https://nodejs.org/en/">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</a>
+
+<a href="https://expressjs.com/">
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+</a>
+  
+<br>
+<a href="#about-me">
+<img src="https://img.shields.io/badge/See More-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a>
+</br>
+
+</div>
+
+ # About Me
+ 
+ I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
+
+
+## Projects I am working on
+
+- abc
+- abcd
+- abcde
+
+<br>
+
+<a>
+<img src="https://activity-graph.herokuapp.com/graph?username=chitangchin&theme=github"/>
+</a>
+</br>
+
 <!-- AWS -->
 <a href="https://aws.amazon.com/">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
@@ -89,27 +146,13 @@
 <a href="https://prometheus.io/">
 <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </a>
-          
- </p>
+
  
  # About Me
  
  I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
  
  
- # Reach out 
- 
-<p align='center'>
-<a href="https://www.linkedin.com/in/chitangchin/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@chitangb.chin">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
- <a>
-   chitangb.chin@gmail.com
-   <a/>
-</p>
 <!--
 **chitangchin/Chitangchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
