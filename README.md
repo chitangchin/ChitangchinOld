@@ -58,7 +58,7 @@
 
 - [Lighthouse](https://github.com/chitangchin/Lighthouse)
 - [Green Planet](https://github.com/chitangchin/Green-Planet)
-- [OnlyPans](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
+- [HomeGrub](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
 
 <br>
 
