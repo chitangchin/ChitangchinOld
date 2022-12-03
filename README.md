@@ -218,6 +218,10 @@
 
 <div align="center">
   <h3>Cloud Infrastructure</h3>
+  <a href="https://azure.microsoft.com/en-us/">
+<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+  
   <!-- AWS -->
 <a href="https://aws.amazon.com/">
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
