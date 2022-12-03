@@ -16,6 +16,10 @@
 #
 
 <div align='center'>
+  
+<a href="https://www.typescriptlang.org/">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>
 
 <a href="https://www.javascript.com/">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -29,18 +33,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
-<a href="https://nodejs.org/en/">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</a>
-  
-<a href="https://mui.com/">
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</a>
-  
 <br>
 <a href="#badges">
 <img src="https://img.shields.io/badge/See More-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
