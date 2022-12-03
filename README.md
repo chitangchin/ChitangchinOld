@@ -43,7 +43,11 @@
 
  # About Me
  
- I built my first computer at the age of 8 with a few old broken dell towers salvaging parts where I could. The first language I learned was C++, in an attempt to rebuild pong for mobile at the age of 13. Today, I still enjoy tinkering with hardware and grew a strong passion for software development through out the years. I am currently working at Lighthouse as a Software Engineer where I am helping companies and developers monitor their **Apache Kafka Cluster's stability and efficiency in real time**.
+ I have a passion for pair programming and building projects to bring a positive impact to people and developers around the world. I enjoy working with TypeScript, JavaScript, Test Driven Development, React, Next.js, and NoSQL. I recently spoke about AWS Serverless Architecture in a tech talk sponsored by Jeeny and Bractlet.
+
+I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus, Microsoft Azure, Google Cloud Platform, AWS Platform.
+
+I graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the classes I took. On my free time, my hobbies are coming up with fun project ideas to develop to help the development community and my friends.
 
 
 ## Top Projects
