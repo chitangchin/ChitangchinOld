@@ -52,13 +52,6 @@
 - [Green Planet](https://github.com/chitangchin/Green-Planet)
 - [HomeGrub](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
 
-<br>
-
-<a>
-<img src="https://activity-graph.herokuapp.com/graph?username=chitangchin&theme=github"/>
-</a>
-</br>
-
 
 ## Articles
 - [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
