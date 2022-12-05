@@ -14,6 +14,7 @@
 </div>
 
 #
+[![Brandon's github activity graph](https://activity-graph.herokuapp.com/graph?username=chitangchin)](https://github.com/chitangchin/github-readme-activity-graph)
 
 <div align='center'>
   
