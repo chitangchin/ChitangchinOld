@@ -50,9 +50,9 @@ I graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the c
 
 ## Top Projects
 
-- [Lighthouse](https://github.com/chitangchin/Lighthouse)
-- [Green Planet](https://github.com/chitangchin/Green-Planet)
-- [HomeGrub](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
+- [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
+- [Green Planet](https://github.com/Star-Nosed-Mole-ptri7/scratch-project)
+- [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs)
 
 
 ## Articles
