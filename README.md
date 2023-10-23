@@ -1,5 +1,4 @@
 <!-- Header image -->
-<img align="center" src="https://github.com/chitangchin/Chitangchin/blob/main/header/Brandon%20Chin.png" />
 
 
 <div align='center'>
