@@ -40,11 +40,9 @@
 
  # About Me
  
- I have a passion for pair programming and building projects to bring a positive impact to people and developers around the world. I enjoy working with TypeScript, JavaScript, Test Driven Development, React, Next.js, and NoSQL. I recently spoke about AWS Serverless Architecture in a tech talk sponsored by Jeeny and Bractlet.
+I work with TypeScript, JavaScript, Test Driven Development, React, Next.js, and NoSQL. I recently spoke about AWS Serverless Architecture in a tech talk sponsored by Jeeny and Bractlet.
 
-I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus, Microsoft Azure, Google Cloud Platform, AWS Platform.
-
-I graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the classes I took. On my free time, my hobbies are coming up with fun project ideas to develop to help the development community and my friends.
+I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus.
 
 
 ## Top Projects
