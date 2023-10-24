@@ -1,17 +1,4 @@
 <!-- Header image -->
-
-
-<div align='center'>
-
-<a href="https://www.linkedin.com/in/chitangchin/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@chitangb.chin">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-  
-</div>
-
  # About Me
  
 I work with TypeScript, JavaScript, Test Driven Development, React, Next.js, and NoSQL. I recently spoke about AWS Serverless Architecture in a tech talk sponsored by Jeeny and Bractlet.
