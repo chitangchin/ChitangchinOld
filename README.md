@@ -1,10 +1,20 @@
 <!-- Header image -->
 # Certifications
-<a href="https://www.freecodecamp.org/certification/fcc57182351-d5f8-4c35-a817-7a6d2a075fca/foundational-c-sharp-with-microsoft">Foundational C# With Microsoft</a> <a>| Acheived 2023</a>
+🚧 <a >Microsoft Azure: Solution Architect AZ-305</a> <a>| Working to Acheive in 2024</a>
 
-<a href="https://www.certmetrics.com/comptia/public/verification.aspx/">CompTIA ITF+</a><a> | ID: NP4WBFR61EQQ1NSG | Acheived 2023</a>
+🚧 <a >Microsoft Azure: Developer AZ-104</a> <a>| Working to Acheive in 2024</a>
 
-<a href="https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url">Microsoft Azure: Fundamentals AZ-900</a><a> | Acheived 2021</a>
+🚧 <a >Microsoft Certified Trainer</a> <a>| Working to Acheive in 2024</a>
+
+🚧 <a >Microsoft Azure: Administrator AZ-104</a> <a>| Working to Acheive in 2024</a>
+
+🚧 <a >CompTIA A+</a> <a>| Working to Acheive in 2023</a>
+
+✨ <a href="https://www.freecodecamp.org/certification/fcc57182351-d5f8-4c35-a817-7a6d2a075fca/foundational-c-sharp-with-microsoft">Foundational C# With Microsoft</a> <a>| Acheived 2023</a>
+
+✨ <a href="https://www.certmetrics.com/comptia/public/verification.aspx/">CompTIA ITF+</a><a> | ID: NP4WBFR61EQQ1NSG | Acheived 2023</a>
+
+✨ <a href="https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url">Microsoft Azure: Fundamentals AZ-900</a><a> | Acheived 2021</a>
 
 
 
