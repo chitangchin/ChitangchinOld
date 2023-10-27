@@ -1,7 +1,13 @@
 <!-- Header image -->
+
+# About Me
+<br></br>
+<br></br>
 <div align="center">
 <img src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif" width="500" height="200" />
 </div>
+<br></br>
+<br></br>
 
 # Certifications ✨ Achievements and 🛣️ Roadmap
 🚧 <a >Microsoft Azure: Solution Architect AZ-305</a> <a>| Working to Acheive in 2024</a>
