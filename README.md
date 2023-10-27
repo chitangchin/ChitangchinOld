@@ -12,7 +12,7 @@
 # Certification ✨ Achievements and 🛣️ Roadmap
 🚧 <a >Microsoft Azure: Solution Architect AZ-305</a> <a>| Working to Acheive in 2024</a>
 
-🚧 <a >Microsoft Azure: Developer AZ-104</a> <a>| Working to Acheive in 2024</a>
+🚧 <a >Microsoft Azure: Developer AZ-204</a> <a>| Working to Acheive in 2024</a>
 
 🚧 <a >Microsoft Certified Trainer</a> <a>| Working to Acheive in 2024</a>
 
