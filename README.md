@@ -1,139 +1,56 @@
 <!-- Header image -->
- # About Me
- 
-I work with TypeScript, JavaScript, Test Driven Development, React, Next.js, and NoSQL. I recently spoke about AWS Serverless Architecture in a tech talk sponsored by Jeeny and Bractlet.
+# Certifications
+<a href="https://www.freecodecamp.org/certification/fcc57182351-d5f8-4c35-a817-7a6d2a075fca/foundational-c-sharp-with-microsoft">Foundational C# With Microsoft</a> <a>| Acheived 2023</a>
 
-I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus.
+<a href="https://www.certmetrics.com/comptia/public/verification.aspx/">CompTIA ITF+</a><a> | ID: NP4WBFR61EQQ1NSG | Acheived 2023</a>
+
+<a href="https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url">Microsoft Azure: Fundamentals AZ-900</a><a> | Acheived 2021</a>
 
 
-## Top Projects
+
+# Top Project
 
 - [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
-- [Green Planet](https://github.com/Star-Nosed-Mole-ptri7/scratch-project)
-- [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs)
 
-
-## Articles
+# Articles
 - [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
 
 # Badges
-
 <div align="center">
   <h3>Languages</h3>
+ <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+</a> 
 <a href="https://www.typescriptlang.org/">
 <img src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
-</a>
-  <a href="https://www.javascript.com/">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
+</a> 
 </div> 
 
-
-
-
-
-
-
 <div align="center">
-  <h3>Frameworks & Libraries</h3>
-  
+  <h3>Frameworks & Libraries</h3> 
 <a href="https://nextjs.org/">
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </a>
-  
- <a href="https://reactjs.org/">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-  
-<a href="https://mui.com/">
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</a>
-
 <a href="https://expressjs.com/">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </a>
-
 <a href="https://nodejs.org/en/">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </a>
- 
-  <a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-
-  <a href="https://www.electronjs.org/">
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-</a>
-
-<a href="https://www.apollographql.com/">
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
-</a>
-  
   <a href="https://graphql.org/">
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
 </a>
-  <a href="https://www.markdownguide.org/">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</a>
-  <a href="https://www.npmjs.com/">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-  <a href="https://www.postman.com/">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</a>
-  <a href="https://webpack.js.org/">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</a>
-
- <a href="https://www.chartjs.org/">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-</a>
- 
 </div> 
-
-
-
-
-
-
-
-
-
-
-
 
 <div align="center">
   <h3>Databases</h3>
-  <!-- MongoDB -->
 <a href="https://www.mongodb.com/">
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
-
-<!-- PostgreSQL -->
 <a href="https://www.postgresql.org/">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
-  
- <a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-  
 </div>
-
-
-
-
-
-
-
-
 
 <div align="center">
   <h3>Software Metrics and Analytics</h3>
@@ -142,19 +59,6 @@ I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus.
 </a>
 </div>  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
   <h3>Funding</h3>
 <a href="https://stripe.com/docs/api">
@@ -162,52 +66,22 @@ I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus.
 </a>
 </div>  
 
-
-
-
-
-
-
-
 <div align="center">
   <h3>Cloud Infrastructure</h3>
   <a href="https://azure.microsoft.com/en-us/">
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
-  
-  <!-- AWS -->
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<!-- Google Cloud -->
-<a href="https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1011347&utm_content=text-ad-none-any-DEV_c-CRE_621957318912-ADGP_Desk+%7C+BKWS+-+EXA+%7C+Txt+~+Google+Cloud+Platform+Core-KWID_43700073023095233-aud-1436107373682:kwd-26415313501&utm_term=KW_google+cloud+platform-ST_google+cloud+platform&gclid=Cj0KCQiAmaibBhCAARIsAKUlaKT_AlxpUri2bitS_4KmPVjsX-MuJYW3-m9gXmnoTQJMO44xxWylovgaAk6kEALw_wcB&gclsrc=aw.ds&hl=en">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-</a>
-
-<!-- Vercel -->
-<a href="https://vercel.com/">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 </div>  
-
-
-
-
-
 
 <div align="center">
   <h3>Editors</h3>
   <a href="https://code.visualstudio.com/">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </a>
+  <a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+</a>
 </div>  
-
-
-
-
-
-
 
 <div align="center">
   <h3>Terminals</h3>
