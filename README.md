@@ -1,5 +1,9 @@
 <!-- Header image -->
-# Certifications
+<div align="center">
+<img src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif" width="500" height="200" />
+</div>
+
+# Certifications ✨ Achievements and 🛣️ Roadmap
 🚧 <a >Microsoft Azure: Solution Architect AZ-305</a> <a>| Working to Acheive in 2024</a>
 
 🚧 <a >Microsoft Azure: Developer AZ-104</a> <a>| Working to Acheive in 2024</a>
@@ -24,6 +28,7 @@
 
 # Articles
 - [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
+- [ Serverless Architecture with AWS Lambda and AWS API Gateway](https://www.linkedin.com/feed/update/urn:li:activity:6996212130752397312/)
 
 # Badges
 <div align="center">
