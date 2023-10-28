@@ -31,6 +31,7 @@
 # Top Project
 
 - [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
+- [C# Email Application](https://github.com/chitangchin/Email-App)
 
 # Articles
 - [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
