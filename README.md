@@ -28,7 +28,7 @@
 
 
 
-# Top Project
+# Projects
 
 - [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
 - [C# Email Application](https://github.com/chitangchin/Email-App)
