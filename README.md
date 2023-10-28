@@ -30,10 +30,10 @@
 
 # Projects
 
-- [C# Email Application](https://github.com/chitangchin/Email-App) 2023
-- [Lighthouse](https://github.com/oslabs-beta/Lighthouse) 2022
-- [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs) 2022
-- [Green Planet](https://github.com/Star-Nosed-Mole-ptri7/scratch-project) 2022
+- [C# Email Application](https://github.com/chitangchin/Email-App)
+- [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
+- [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs)
+- [Green Planet](https://github.com/Star-Nosed-Mole-ptri7/scratch-project)
 
 
 # Articles
