@@ -2,12 +2,12 @@
 
 # About Me
 
-
+<br>
 <div align="center">
 <img src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif" width="500" height="200" />
 </div>
-
-
+<br>
+I am an avid coder and learner, passionate about diving into fun projects and exploring new technologies. My approach to learning emphasizes understanding the fundamentals through practice and building kata. I believe in taking the time to deeply comprehend and enjoy the learning process, rather than rushing through it. This journey of continuous exploration and growth in technology is what drives me.
 
 # Tech Career 🛣️ Roadmap
 <h3>Microsoft Solution Development</h3>
