@@ -36,10 +36,10 @@
 
 ✨ <a href="https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url">Microsoft Azure: Fundamentals AZ-900</a><a> | Acheived 2021</a>
 
-
+#Kata
+- [ASP.NET Swagger Azure App Service](https://github.com/chitangchin/ASP.NET-Swagger-API-Azure-App-Services)
 
 # Projects
-
 - [C# Email Application](https://github.com/chitangchin/Email-App)
 - [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
 - [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs)
