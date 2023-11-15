@@ -1,13 +1,13 @@
 <!-- Header image -->
 
 # About Me
-<br></br>
-<br></br>
+
+
 <div align="center">
 <img src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif" width="500" height="200" />
 </div>
-<br></br>
-<br></br>
+
+
 
 # Tech Career 🛣️ Roadmap
 <h3>Microsoft Solution Development</h3>
