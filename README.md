@@ -36,6 +36,14 @@
 
 ✨ <a href="https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url">Microsoft Azure: Fundamentals AZ-900</a><a> | Acheived 2021</a>
 
+# Projects
+- [C# Email Application](https://github.com/chitangchin/Email-App)
+- [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
+- [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs)
+- [Green Planet](https://github.com/Star-Nosed-Mole-ptri7/scratch-project)
+- [VotingOnArticles](https://github.com/chitangchin/VotingOnArticles)
+
+
 # Kata
 <h3>Latest 10 kata</h3>
 
@@ -65,16 +73,7 @@
 - <a href="https://github.com/chitangchin/doooooby-doooby-dooo">Google Extension JS App</a>
 </details>
 
-
-# Projects
-- [C# Email Application](https://github.com/chitangchin/Email-App)
-- [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
-- [HomeGrub](https://github.com/Animaniacs-PTRI7/Iteration-project-animaniacs)
-- [Green Planet](https://github.com/Star-Nosed-Mole-ptri7/scratch-project)
-- [VotingOnArticles](https://github.com/chitangchin/VotingOnArticles)
-
-
-# Articles
+# Publications
 - [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
 - [ Serverless Architecture with AWS Lambda and AWS API Gateway](https://www.linkedin.com/feed/update/urn:li:activity:6996212130752397312/)
 
