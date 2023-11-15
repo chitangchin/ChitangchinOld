@@ -45,6 +45,12 @@
 
 
 # Kata
+<details>
+<summary>What is kata?</summary>
+An exercise that helps a programmer hone their skills through practice and a lot of repetition.
+</details>
+
+
 <h3>Latest 10 kata</h3>
 
 - <a href="https://github.com/chitangchin/ASP.NET-Swagger-API-Azure-App-Services">ASP.NET Swagger Azure App Service</a>
