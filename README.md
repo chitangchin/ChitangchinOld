@@ -36,6 +36,12 @@ I am an avid coder and learner, passionate about diving into fun projects and ex
 
 ✨ <a href="https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url">Microsoft Azure: Fundamentals AZ-900</a><a> | Acheived 2021</a>
 
+# Microsoft Virtual Training
+- Microsoft Azure Well Architected Framework
+- Microsoft Azure Mordernize Enterprise Applications
+- Microsoft Azure AI Fundamentals
+- Microsoft Azure Data Fundamentals
+  
 # Projects
 - [C# Email Application](https://github.com/chitangchin/Email-App)
 - [Lighthouse](https://github.com/oslabs-beta/Lighthouse)
