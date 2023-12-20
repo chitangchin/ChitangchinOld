@@ -9,6 +9,8 @@
 <br>
 Why rush through the journey of learning? I like to take my time to fully comprehend the fundamentals of any topic I explore in my tech career, whether its pure HTML coding, building React Applications, or practicing with subscriptions and resources in Azure. I exhort anyone who is breaking into tech to do the same.
 
+CI/CD is my favorite part of designing any application or project, which allows me to continue to program with aplomb.
+
 # Tech Career 🛣️ Roadmap
 <h3>Microsoft Solution Development</h3>
 
