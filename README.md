@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/Er3QVX48nt5ok/giphy.gif" width="500" height="200" />
 </div>
 <br>
-I am an avid coder and learner, passionate about diving into fun projects and exploring new technologies. My approach to learning emphasizes understanding the fundamentals through practice and building kata. I believe in taking the time to deeply comprehend and enjoy the learning process, rather than rushing through it. This journey of continuous exploration and growth in technology is what drives me.
+Why rush through the journey of learning? I like to take my time to fully comprehend the fundamentals of any topic I explore in my tech career, whether its pure HTML coding, building React Applications, or practicing with subscriptions and resources in Azure. I exhort anyone who is breaking into tech to do the same.
 
 # Tech Career 🛣️ Roadmap
 <h3>Microsoft Solution Development</h3>
