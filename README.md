@@ -60,7 +60,7 @@ An exercise that helps a programmer hone their skills through practice and a lot
 
 
 <h3>Latest 10 kata</h3>
-
+- <a href="https://github.com/chitangchin/FruitWebApp-codebehind">FruitWebAppCode C# ASP.Net</a>
 - <a href="https://github.com/chitangchin/ASP.NET-Swagger-API-Azure-App-Services">ASP.NET Swagger Azure App Service</a>
 - <a href="https://github.com/chitangchin/PictureViewer">Picture Viewer C#/.NET Winforms</a>
 - <a href="https://github.com/chitangchin/GuidedProjectExceptions">Handling Exceptions C#</a>
@@ -70,11 +70,11 @@ An exercise that helps a programmer hone their skills through practice and a lot
 - <a href="https://github.com/chitangchin/EmailAddressCreationCSharpMethod">Email Address Creation App C#</a>
 - <a href="https://github.com/chitangchin/CSharpMiniGame">C# Minigame</a>
 - <a href="https://github.com/chitangchin/Plan-a-Petting-Zoo-Visit-App">Petting Zoo Planning App C#</a>
-- <a href="https://github.com/chitangchin/Contoso-Animal-Adoption-App">C# Animal Adoption App</a>
 <details>
 <summary>See more...</summary>
 <br>
 
+- <a href="https://github.com/chitangchin/Contoso-Animal-Adoption-App">C# Animal Adoption App</a>
 - <a href="https://github.com/chitangchin/Animal-Info-Application">C# Animal Description App</a>
 - <a href="https://github.com/chitangchin/FoundationalCSharp-Microsoft">Microsoft Foundational C# First Project</a>
 - <a href="https://github.com/chitangchin/NutritionFact">Building a nutritional fact replica</a>
