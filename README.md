@@ -60,6 +60,7 @@ An exercise that helps a programmer hone their skills through practice and a lot
 
 
 <h3>Latest 10 kata</h3>
+
 - <a href="https://github.com/chitangchin/FruitWebApp-codebehind">FruitWebAppCode C# ASP.Net</a>
 - <a href="https://github.com/chitangchin/ASP.NET-Swagger-API-Azure-App-Services">ASP.NET Swagger Azure App Service</a>
 - <a href="https://github.com/chitangchin/PictureViewer">Picture Viewer C#/.NET Winforms</a>
