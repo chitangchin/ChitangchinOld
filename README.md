@@ -12,25 +12,6 @@ Why rush through the journey of learning? I like to take my time to fully compre
 CI/CD is my favorite part of designing any application or project, which allows me to continue to program with aplomb.
 
 # Tech Career 🛣️ Roadmap
-<h3>Microsoft Solution Development</h3>
-
-🚧 <a >Microsoft Azure: Solution Architect AZ-305</a>
-
-🚧 <a >Microsoft Azure: Developer AZ-204</a>
-
-<h3>Microsoft Administrative Fundamentals</h3>
-
-🚧 <a >Microsoft Certified Trainer</a>
-
-🚧 <a >Microsoft Azure: Administrator AZ-104</a>
-
-<h3>Learning Computer Science Fundamentals</h3>
-
-🚧 <a >CompTIA Cloud+</a>
-
-🚧 <a >CompTIA A+</a>
-
-🚧 <a >Harvard: CS50</a>
 
 ✨ <a href="https://www.freecodecamp.org/certification/fcc57182351-d5f8-4c35-a817-7a6d2a075fca/foundational-c-sharp-with-microsoft">Foundational C# With Microsoft</a> <a>| Acheived 2023</a>
 
