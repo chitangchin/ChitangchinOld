@@ -14,10 +14,6 @@
 </div>
 
 <div align='center'>
-  
-<a href="https://www.typescriptlang.org/">
-<img src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
-</a>
 
 <a href="https://www.javascript.com/">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -41,11 +37,7 @@
 
  # About Me
  
- I have a passion for pair programming and building projects to bring a positive impact to people and developers around the world. I enjoy working with TypeScript, JavaScript, Test Driven Development, React, Next.js, and NoSQL. I recently spoke about AWS Serverless Architecture in a tech talk sponsored by Jeeny and Bractlet.
-
-I have experience with Cypress.io, GraphQL, Apache Kafka, Prometheus, Microsoft Azure, Google Cloud Platform, AWS Platform.
-
-I graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the classes I took. On my free time, my hobbies are coming up with fun project ideas to develop to help the development community and my friends.
+Graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the classes I took. On my free time, my hobbies are coming up with fun project ideas to develop to help the development community and my friends.
 
 
 ## Top Projects
@@ -54,17 +46,10 @@ I graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the c
 - [Green Planet](https://github.com/chitangchin/Green-Planet)
 - [HomeGrub](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
 
-
-## Articles
-- [What are the benefits of REST API](https://medium.com/@chitangb.chin/what-are-the-benefits-of-rest-api-37bf16d75be8)
-
 # Badges
 
 <div align="center">
   <h3>Languages</h3>
-<a href="https://www.typescriptlang.org/">
-<img src="https://camo.githubusercontent.com/ee71fcc1aa3d059265517741dffc4161922fd744377e7a5f07c43381d0aa9aac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" />
-</a>
   <a href="https://www.javascript.com/">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </a>  
@@ -215,16 +200,6 @@ I graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the c
   <h3>Cloud Infrastructure</h3>
   <a href="https://azure.microsoft.com/en-us/">
 <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</a>
-  
-  <!-- AWS -->
-<a href="https://aws.amazon.com/">
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
-
-<!-- Google Cloud -->
-<a href="https://cloud.google.com/gcp?utm_source=google&utm_medium=cpc&utm_campaign=na-US-all-en-dr-bkws-all-all-trial-e-dr-1011347&utm_content=text-ad-none-any-DEV_c-CRE_621957318912-ADGP_Desk+%7C+BKWS+-+EXA+%7C+Txt+~+Google+Cloud+Platform+Core-KWID_43700073023095233-aud-1436107373682:kwd-26415313501&utm_term=KW_google+cloud+platform-ST_google+cloud+platform&gclid=Cj0KCQiAmaibBhCAARIsAKUlaKT_AlxpUri2bitS_4KmPVjsX-MuJYW3-m9gXmnoTQJMO44xxWylovgaAk6kEALw_wcB&gclsrc=aw.ds&hl=en">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </a>
 
 <!-- Vercel -->
