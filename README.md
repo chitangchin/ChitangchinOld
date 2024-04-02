@@ -1,6 +1,8 @@
 <h2 align="left">Brandon Chin</h2>
 
-###
+# About Me
+
+# Tech Stack
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRxMnNiMmxtbTh0NzJpbTdwdHVpZGxrZWg1eG4yZ2dudG1zNm1pNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy-downsized-large.gif"  />
 
@@ -28,14 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
+# What Im listening to
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1241077062)
-
-###
