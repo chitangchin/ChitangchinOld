@@ -1,282 +1,41 @@
-<!-- Header image -->
-<img align="center" src="https://github.com/chitangchin/Chitangchin/blob/main/header/Brandon%20Chin.png" />
+<h2 align="left">Brandon Chin</h2>
 
+###
 
-<div align='center'>
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRxMnNiMmxtbTh0NzJpbTdwdHVpZGxrZWg1eG4yZ2dudG1zNm1pNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy-downsized-large.gif"  />
 
-<a href="https://www.linkedin.com/in/chitangchin/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://medium.com/@chitangb.chin">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-  
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-<div align='center'>
+###
 
-<a href="https://www.javascript.com/">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>
-
-<a href="https://nextjs.org/">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</a>
-
-<a href="https://reactjs.org/">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-<br>
-<a href="#badges">
-<img src="https://img.shields.io/badge/See More-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a>
-</br>
-
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
- # About Me
- 
-Graduated with a Bachelors in Applied Mathematics. I enjoy turning an inconvience into fun projects for myself, friends, or the development community.
+###
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1241077062)
 
-## Top Projects
-
-- [Lighthouse](https://github.com/chitangchin/Lighthouse)
-- [Green Planet](https://github.com/chitangchin/Green-Planet)
-- [HomeGrub](https://github.com/chitangchin/Onlypans/tree/UpdatingMUI)
-
-# Badges
-
-<div align="center">
-  <h3>Languages</h3>
-  <a href="https://www.javascript.com/">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</a>  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  </a>
-</div> 
-
-
-
-
-
-
-
-<div align="center">
-  <h3>Frameworks & Libraries</h3>
-  
-<a href="https://nextjs.org/">
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</a>
-  
- <a href="https://reactjs.org/">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-  
-<a href="https://mui.com/">
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-</a>
-
-<a href="https://expressjs.com/">
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</a>
-
-<a href="https://nodejs.org/en/">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</a>
- 
-  <a href="https://www.docker.com/">
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-</a>
-
-  <a href="https://www.electronjs.org/">
-<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
-</a>
-
-<a href="https://www.apollographql.com/">
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
-</a>
-  
-  <a href="https://graphql.org/">
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</a>
-  <a href="https://www.markdownguide.org/">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-</a>
-  <a href="https://www.npmjs.com/">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-</a>
-  <a href="https://www.postman.com/">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-</a>
-  <a href="https://webpack.js.org/">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-</a>
-
- <a href="https://www.chartjs.org/">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-</a>
- 
-</div> 
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <h3>Databases</h3>
-  <!-- MongoDB -->
-<a href="https://www.mongodb.com/">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</a>
-
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-</a>
-  
- <a href="https://www.mysql.com/">
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
-  
-</div>
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <h3>Software Metrics and Analytics</h3>
-  <a href="https://prometheus.io/">
-<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
-</a>
-</div>  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-  <h3>Funding</h3>
-<a href="https://stripe.com/docs/api">
-<img src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white" />
-</a>
-</div>  
-
-
-
-
-
-
-
-
-<div align="center">
-  <h3>Cloud Infrastructure</h3>
-  <a href="https://azure.microsoft.com/en-us/">
-<img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</a>
-
-<!-- Vercel -->
-<a href="https://vercel.com/">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-</div>  
-
-
-
-
-
-
-<div align="center">
-  <h3>Editors</h3>
-  <a href="https://code.visualstudio.com/">
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</a>
-</div>  
-
-
-
-
-
-
-
-<div align="center">
-  <h3>Terminals</h3>
-<a href="https://git-scm.com/">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</a>
-  
-<a href="https://learn.microsoft.com/en-us/powershell/">
-<img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-</a>
-  
-</div>  
-
-
-
-<div align="center">
-  <h3>Operating Systems</h3>
-  <a href="https://www.linux.org/">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</a>
-
-<a href="https://www.microsoft.com/en-us/windows?r=1">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
-</div>  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
-  
-
- 
-
-<!--
-**chitangchin/Chitangchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
