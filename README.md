@@ -1,12 +1,10 @@
 <h2 align="left">Brandon Chin</h2>
 
-# About Me
+## About Me
 
-# Tech Stack
+## Tech Stack
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnRxMnNiMmxtbTh0NzJpbTdwdHVpZGxrZWg1eG4yZ2dudG1zNm1pNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rlwz4m0aHgXH13jyrE/giphy-downsized-large.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,6 +28,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-# What Im listening to
+## Github Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+## What Im listening to
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1241077062)
