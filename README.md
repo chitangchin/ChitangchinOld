@@ -37,7 +37,7 @@
 
  # About Me
  
-Graduated with a Bachelors in Applied Mathematics and thoroughly enjoyed the classes I took. On my free time, my hobbies are coming up with fun project ideas to develop to help the development community and my friends.
+Graduated with a Bachelors in Applied Mathematics. I enjoy turning an inconvience into fun projects for myself, friends, or the development community.
 
 
 ## Top Projects
