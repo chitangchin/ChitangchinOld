@@ -7,7 +7,7 @@
   "firstName": "Brandon",
   "lastName": "Chin",
   "age": 25,
-  "hobby": ["Bowling", "Bodybuilding", "Swimming", "Ping Pong", "Anime"]
+  "hobbies": ["Bowling", "Swimming", "Ping Pong", "Anime"]
 }
 ```
 
