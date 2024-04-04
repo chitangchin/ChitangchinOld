@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzazU3ZzZoaWgxanN6cW9nNTJqMXRtN2d0a3FsbWEyeDh0bmtkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif"/>
 <p/>
+
   
 ```
 {
@@ -11,7 +12,17 @@
 }
 ```
 
-`"In the dimly lit corridors of code, where logic intertwines with creativity, I traverse the unforgiving lands of programming, a lone wanderer in search of enlightenment through the art of software development. My journey began at the dawn of my curiosity, armed with nothing but a keen mind and an indomitable will, akin to a chosen undead venturing through Lordran. Each repository is a bonfire, a beacon of progress amidst the abyss of bugs and errors. My arsenal, forged in the fires of trial and error, consists of languages both ancient and modern—React, the swift and agile; JavaScript, the versatile and omnipresent; and C, the powerful yet unforgiving. Battling through the undead legions of syntax errors and the formidable bosses of system failures, I've emerged victorious with wisdom gleaned from each defeat. My code, once a frail undead, now stands as a testament to perseverance, a beacon for those who dare to embark on the treacherous path of software development. But the journey is far from over. The lands of Machine Learning and Artificial Intelligence lie ahead, shrouded in mystery and promise. It is here that I seek my next challenge, to conquer these realms and uncover their secrets. To those who tread the path of code, know this—our journey is one of constant learning, facing down the dark with the light of our determination. Let us kindle the bonfires of innovation together, sharing our knowledge and forging ahead into the unknown. Should you seek collaboration or wish to share in the spoils of knowledge, extend your sign. Together, we shall face the darkness and emerge as bearers of the flame."`
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWhtMnh6MGxkamtrYTVmZml4aWk0aHplMTh1cjM1c2VuOGcyNno5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A1yn6iB9Qy2GPxZr9p/source.gif"/>
+<p/>
+  
+*<sub>In the dimly lit corridors of code, where logic intertwines with creativity, I traverse the unforgiving lands of programming, a lone wanderer in search of enlightenment through the art of software development. 
+My journey began at the dawn of my curiosity, armed with nothing but a keen mind and an indomitable will, akin to a chosen undead venturing through Lordran. 
+Each repository is a bonfire, a beacon of progress amidst the abyss of bugs and errors. My arsenal, forged in the fires of trial and error, consists of languages both ancient and modern—React, the swift and agile; JavaScript, the versatile and omnipresent; and C, the powerful yet unforgiving.
+Battling through the undead legions of syntax errors and the formidable bosses of system failures, I've emerged victorious with wisdom gleaned from each defeat. My code, once a frail undead, now stands as a testament to perseverance, a beacon for those who dare to embark on the treacherous path of software development. But the journey is far from over. The lands of Machine Learning and Artificial Intelligence lie ahead, shrouded in mystery and promise. 
+It is here that I seek my next challenge, to conquer these realms and uncover their secrets. To those who tread the path of code, know this—our journey is one of constant learning, facing down the dark with the light of our determination. Let us kindle the bonfires of innovation together, sharing our knowledge and forging ahead into the unknown. Should you seek collaboration or wish to share in the spoils of knowledge, extend your sign. Together, we shall face the darkness and emerge as bearers of the flame.</sub>*
+
+
 
 ## Tech Stack
 
