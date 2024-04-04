@@ -1,6 +1,17 @@
-<h1 align="left">Brandon Chin</h1>
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjEzazU3ZzZoaWgxanN6cW9nNTJqMXRtN2d0a3FsbWEyeDh0bmtkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AQRapWCgC7dThyVEYb/giphy.gif"/>
+<p/>
+  
+```
+{
+  "firstName": "Brandon",
+  "lastName": "Chin",
+  "age": 25,
+  "hobby": ["Bowling", "Bodybuilding", "Swimming", "Ping Pong", "Anime"]
+}
+```
 
-## About Me
+`Once upon a compile time, a curious encounter with a bug transformed me from a mere mortal into a code whisperer. My journey through the realms of computer science, and Rust has been filled with challenges, achievements, and a lot of coffee(I don't drink coffee). When I'm not conversing with computers, you'll find me working out, bowling, exploring, playing games, which, surprisingly, improves my debugging skills (Elden Ring and Dark Souls...) Dive into my repositories to explore the magic I conjure with code, or reach out if you're brave enough to embark on a coding adventure together. - ChatGPT`
 
 ## Tech Stack
 
