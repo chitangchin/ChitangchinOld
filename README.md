@@ -1,4 +1,4 @@
-<h2 align="left">Brandon Chin</h2>
+<h1 align="left">Brandon Chin</h1>
 
 ## About Me
 
