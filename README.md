@@ -32,6 +32,6 @@ Backtracking
 - NYS IT Specialist 1 && 2
 
 
-## What Im listening to
+## Coding Jam
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1241077062)
