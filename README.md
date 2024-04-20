@@ -9,8 +9,8 @@
 Backtracking
 <details>
 <summary>Enumeration Problems</summary>
-<br>
-1. N Queen
+<a href="https://github.com/chitangchin/Algorithms/tree/main/Backtracking/nQueen">N Queen</a>
+  
 </details>
 <details>
 <summary>Decision Problems</summary>
