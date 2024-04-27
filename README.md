@@ -5,7 +5,7 @@
 
 [Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
-<img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" />
+<img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
 
 
