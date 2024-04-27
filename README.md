@@ -1,8 +1,18 @@
 # Projects
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|Project Name<br>Project Domain Link<br>Github Link ![alt text](https://github.com/chitangchin/Chitangchin/blob/main/pexels-andre-moura-2764989.jpg)|Project Name<br>Project Domain Link<br>Github Link ![alt text](https://github.com/chitangchin/Chitangchin/blob/main/pexels-andre-moura-2764989.jpg)|Project Name<br>Project Domain Link<br>Github Link ![alt text](https://github.com/chitangchin/Chitangchin/blob/main/pexels-andre-moura-2764989.jpg)|Project Name<br>Project Domain Link<br>Github Link ![alt text](https://github.com/chitangchin/Chitangchin/blob/main/pexels-andre-moura-2764989.jpg)|
+
+### Simplified SMTP Email App C#
+
+[Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
+
+<img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" />
+
+
+
+
+
+
+
 
 ## Algorithms in C
 
