@@ -51,7 +51,3 @@ Backtracking
 - Jira Fundamental
 - NYS IT Specialist 1 && 2
 
-
-## Coding Jam
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1241077062)
