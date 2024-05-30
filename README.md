@@ -1,10 +1,10 @@
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/160e2588-e863-4fa0-9c63-43f22f87b820" width="400" />
 
 # Table of Content
-- [Professional Projects](#professional-projects)
-- [Personal Projects](#personal-projects)
-- [Certifications](#certifications)
-- [About Me](#about-me)
+- [Professional Projects](#professional-projects-)
+- [Personal Projects](#personal-projects-)
+- [Certifications](#certifications-)
+- [About Me](#about-me-%EF%B8%8F)
 
 # Professional Projects 💼
 
