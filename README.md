@@ -1,11 +1,19 @@
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/160e2588-e863-4fa0-9c63-43f22f87b820" width="400" />
 
+# Table of Content
+- Professional Projects
+- Personal Projects
+- Certifications
+- About Me
+
 # Professional Projects 💼
 
 ### JPI Tips Electron App
 
 [Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
+
+**Tech Stack:** React/TypeScript/Electron/Jest
 
 To compensate for the lack of control we have with our acquisition software error handling, we moved in the direction of implementing our own software that will run concurrently with the acquisition and provide the user with more intuitive instructions on certain errors. This is written in typescript using react and electron
 
@@ -14,6 +22,8 @@ To compensate for the lack of control we have with our acquisition software erro
 #
 
 ### JPI Simplified SMTP Email App C# Code Snippet
+
+**Tech Stack:** C#/.NET
 
 [Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
@@ -24,6 +34,8 @@ The acquisition software asked the end user about the SMTP server, port, and SSL
 # Personal Projects 😎
 
 ### Timeline Portfolio Project
+
+**Tech Stack:** Next.js/TypeScript/Jest/Node.js/NoSQL
 
 [Github Link](https://github.com/chitangchin/timelineportfolioproject)
 
@@ -36,6 +48,8 @@ Mission Statement: An Innovative and Sustainable perspective on self-growth
 
 ### Interactive System Design
 
+**Tech Stack:** JavaScript/Jest
+
 [Github Link](https://github.com/chitangchin/InteractiveSystemDesign)
 
 I want to focus on a more interactive JavaScript learning experience with System Design. To supplement reading the Grokking System Design Interview, I want to design the system visually using console commands, tests, and intuitive indicators of why A B, and C are implemented and what is it doing.
@@ -43,6 +57,8 @@ I want to focus on a more interactive JavaScript learning experience with System
 #
 
 ### Grind 91: Data Structures and Algorithms in JavaScript
+
+**Tech Stack:** JavaScript/Jest
 
 [Github Link](https://github.com/chitangchin/Grind75Practice)
 
@@ -59,6 +75,8 @@ You will find within each problem solved is a <ins>Real World Case Scenario</ins
 
 ### Data Structures and Algorithms in C
 
+**Tech Stack:** C
+
 [Github Link](https://github.com/chitangchin/Grind75Practice)
 
 [Udemy Course Link](https://www.udemy.com/course/deep-dive-into-algorithms/?couponCode=KEEPLEARNING)
@@ -66,9 +84,6 @@ You will find within each problem solved is a <ins>Real World Case Scenario</ins
 Hands-on Practice with Udemy Course
 
 <ins>Deep Dive into Algorithms</ins> by Sachin Nandha Sabaish J
-
-
-#
 
 ## Certifications
 
