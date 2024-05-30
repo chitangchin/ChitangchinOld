@@ -11,9 +11,9 @@
 
 ### JPI Tips Electron App
 
-[Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
-
 **Tech Stack:** React/TypeScript/Electron/Jest
+
+[Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
 To compensate for the lack of control we have with our acquisition software error handling, we moved in the direction of implementing our own software that will run concurrently with the acquisition and provide the user with more intuitive instructions on certain errors. This is written in typescript using react and electron
 
