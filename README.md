@@ -1,10 +1,10 @@
-# Projects
+# Professional Projects 💼
 
 ### JPI Tips Electron App
 
-To compensate for the lack of control we have with our acquisiton software error handling, we moved in a direction of implementing our own software that will run concurrently with the acquisition and provide the user with more intuitive instructions on certain errors. This is written in typescript using react and electron
-
 [Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
+
+To compensate for the lack of control we have with our acquisition software error handling, we moved in the direction of implementing our own software that will run concurrently with the acquisition and provide the user with more intuitive instructions on certain errors. This is written in typescript using react and electron
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
@@ -12,36 +12,60 @@ To compensate for the lack of control we have with our acquisiton software error
 
 ### JPI Simplified SMTP Email App C# Code Snippet
 
-The Acquisiton software asked the end user of the SMTP server, port, and SSL settings. To simplify the application, we modularized and added intuitive steps for the user to follow. This is intended to be a code snippet example for JPI Korea to review. This app uses mimekit and is written in C#
-
 [Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
+
+The acquisition software asked the end user about the SMTP server, port, and SSL settings. To simplify the application, we modularized and added intuitive steps for the user to follow. This is intended to be a code snippet example for JPI Korea to review. This app uses mimekit and is written in C#
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
+# Personal Projects 😎
+
+### Timeline Portfolio Project
+
+[Github Link](https://github.com/chitangchin/timelineportfolioproject)
+
+Mission Statement: An Innovative and Sustainable perspective on self-growth
+- Create a line graph that we update every day we do a daily win. On a day where there are no wins, we lose 0.5 points to our total score.
+- Separate Professional and Personal Accomplishments and Growth.
+- Show employers that there is more to you behind the Professional Facade
+
 #
 
+### Interactive System Design
+
+[Github Link](https://github.com/chitangchin/InteractiveSystemDesign)
+
+I want to focus on a more interactive JavaScript learning experience with System Design. To supplement reading the Grokking System Design Interview, I want to design the system visually using console commands, tests, and intuitive indicators of why A B, and C are implemented and what is it doing.
+
+#
+
+### Grind 91: Data Structures and Algorithms in JavaScript
+
+[Github Link](https://github.com/chitangchin/Grind75Practice)
+
+Brainless repetition is a waste of time and resources in my opinion.
+
+So my approach with Grind 91 is to do the following:
+
+- Identify real use cases
+- Understand Algorithm and Data Structure Patterns
+
+You will find within each problem solved is a <ins>Real World Case Scenario</ins> if applicable and the <ins>General Pattern</ins>
+
+#
+
+### Data Structures and Algorithms in C
+
+[Github Link](https://github.com/chitangchin/Grind75Practice)
+
+[Udemy Course Link](https://www.udemy.com/course/deep-dive-into-algorithms/?couponCode=KEEPLEARNING)
+
+Hands-on Practice with Udemy Course
+
+<ins>Deep Dive into Algorithms</ins> by Sachin Nandha Sabaish J
 
 
-
-
-## Algorithms in C
-
-Backtracking
-<details>
-<summary>Enumeration Problems</summary>
-<a href="https://github.com/chitangchin/Algorithms/tree/main/Backtracking/nQueen">N Queen</a>
-  
-</details>
-<details>
-<summary>Decision Problems</summary>
-<br>
-1. N Queen
-</details>
-<details>
-<summary>Optimization Problems</summary>
-<br>
-1. N Queen
-</details>
+#
 
 ## Certifications
 
