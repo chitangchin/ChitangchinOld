@@ -1,11 +1,10 @@
-
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/160e2588-e863-4fa0-9c63-43f22f87b820" width="400" />
 
 # Table of Content
-- Professional Projects
-- Personal Projects
-- Certifications
-- About Me
+- [Professional Projects](#professional-projects)
+- [Personal Projects](#personal-projects)
+- [Certifications](#certifications)
+- [About Me](#about-me)
 
 # Professional Projects 💼
 
@@ -85,7 +84,7 @@ Hands-on Practice with Udemy Course
 
 <ins>Deep Dive into Algorithms</ins> by Sachin Nandha Sabaish J
 
-## Certifications
+# Certifications 📜
 
 - Microsoft AZ-900: Azure Fundamentals
 - Microsoft Foundational C#
@@ -93,3 +92,6 @@ Hands-on Practice with Udemy Course
 - Jira Fundamental
 - NYS IT Specialist 1 && 2
 
+# About Me 🧙‍♂️
+
+Still thinking ...
