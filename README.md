@@ -9,7 +9,7 @@
 - [About Me](#about-me-%EF%B8%8F)
 
 # Professional Projects 💼 
-###### [Go Back Up](#table-of-content)
+###### [Go Back Up](#theres-no-room-in-the-ring-for-overbearing-pride-closing-your-mind-to-the-prospect-of-failure-will-only-ensure-your-defeat---master-roshi)
 
 ### JPI Tips Electron App
 
@@ -34,7 +34,7 @@ The acquisition software asked the end user about the SMTP server, port, and SSL
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
 # Personal Projects 😎
-###### [Go Back Up](#table-of-content)
+###### [Go Back Up](#theres-no-room-in-the-ring-for-overbearing-pride-closing-your-mind-to-the-prospect-of-failure-will-only-ensure-your-defeat---master-roshi)
 
 ### Timeline Portfolio Project
 
@@ -89,7 +89,7 @@ Hands-on Practice with Udemy Course
 <ins>Deep Dive into Algorithms</ins> by Sachin Nandha Sabaish J
 
 # Certifications 📜
-###### [Go Back Up](#table-of-content)
+###### [Go Back Up](#theres-no-room-in-the-ring-for-overbearing-pride-closing-your-mind-to-the-prospect-of-failure-will-only-ensure-your-defeat---master-roshi)
 
 - Microsoft AZ-900: Azure Fundamentals
 - Microsoft Foundational C#
@@ -98,6 +98,6 @@ Hands-on Practice with Udemy Course
 - NYS IT Specialist 1 && 2
 
 # About Me 🧙‍♂️
-###### [Go Back Up](#table-of-content)
+###### [Go Back Up](#theres-no-room-in-the-ring-for-overbearing-pride-closing-your-mind-to-the-prospect-of-failure-will-only-ensure-your-defeat---master-roshi)
 
 Still thinking ...
