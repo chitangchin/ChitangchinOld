@@ -1,4 +1,4 @@
-## "There's no room in the ring for overbearing pride! Closing your mind to the prospect of failure will only ensure your defeat!" - Master Roshi
+
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/160e2588-e863-4fa0-9c63-43f22f87b820" width="400" />
 
