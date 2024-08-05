@@ -24,4 +24,4 @@ Improves unintuitive software email setup by providing step-by-step instructions
 - Microsoft Foundational C#
 - CompTIA ITF+
 - Jira Fundamental
-- NYS IT Specialist 1 && 2
+- NYS IT Specialist 1 & 2
