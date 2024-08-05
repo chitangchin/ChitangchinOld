@@ -2,7 +2,7 @@
 
 [Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
-### The solution proposal 
+### Solution Proposal 
 
 Reduces common end-user errors and improves the efficiency of technical training.
 
@@ -12,7 +12,7 @@ Reduces common end-user errors and improves the efficiency of technical training
 
 [Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
-###  The solution proposal 
+###  Solution Proposal 
 
 Improves unintuitive software email setup to reduce related support call volume.
 
