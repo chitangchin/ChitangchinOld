@@ -20,7 +20,7 @@ Kyu 2 - 20
 
 Kyu 1 - 10
 
-[Link to Solutions](https://github.com/chitangchin/CodewarKata)
+[Link to Individual Problems/Solutions](https://github.com/chitangchin/CodewarKata)
 
 # Projects
 
