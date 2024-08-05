@@ -8,7 +8,7 @@ Reduces common end-user errors and improves the efficiency of technical training
 
 - [Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
-## JPI Simplified SMTP Email App C# Code Snippet
+## JPI Email Workflow Simplified
 
 ###  Solution Proposal 
 
