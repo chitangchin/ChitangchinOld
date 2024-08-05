@@ -4,39 +4,23 @@
 
 ### (Level - Total No. of Questions - Link to Collection)
 
-<details>
-    <summary> Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
-</details>
+Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8
 
-<details>
-    <summary> Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
-</details>
+Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7
 
-<details>
-    <summary> Kyu 6 - 40 </summary>
-</details>
+Kyu 6 - 40
 
-<details>
-    <summary> Kyu 5 - 50 </summary>
-</details>
+Kyu 5 - 50
 
-<details>
-    <summary> Kyu 4 - 40 </summary>
-</details>
+Kyu 4 - 40
 
-<details>
-    <summary> Kyu 3 - 30 </summary>
-</details>
+Kyu 3 - 30
 
-<details>
-    <summary> Kyu 2 - 20 </summary>
-</details>
+Kyu 2 - 20
 
-<details>
-    <summary> Kyu 1 - 10 </summary>
-</details>
+Kyu 1 - 10
 
-- [Link to Solutions](https://github.com/chitangchin/CodewarKata)
+[Link to Solutions](https://github.com/chitangchin/CodewarKata)
 
 # Projects
 
