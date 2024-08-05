@@ -2,7 +2,7 @@
 - [Professional Projects](#professional-projects-)
 - [Certifications](#certifications-)
 
-# Professional Projects
+#Projects
 
 ### JPI Tips Electron App
 
