@@ -1,12 +1,12 @@
 # Projects
 
-### JPI Tips Electron App
+### JPI Tips App
 
 **Tech Stack:** React/TypeScript/Electron/Jest
 
 [Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
-To compensate for the lack of control we have with our acquisition software error handling, we moved in the direction of implementing our own software that will run concurrently with the acquisition and provide the user with more intuitive instructions on certain errors. This is written in typescript using react and electron
+The solution proposal reduces common end-user errors and improves the efficiency of technical training.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
@@ -18,7 +18,7 @@ To compensate for the lack of control we have with our acquisition software erro
 
 [Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
-The acquisition software asked the end user about the SMTP server, port, and SSL settings. To simplify the application, we modularized and added intuitive steps for the user to follow. This is intended to be a code snippet example for JPI Korea to review. This app uses mimekit and is written in C#
+The solution proposal improves unintuitive software email setup to reduce related support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
