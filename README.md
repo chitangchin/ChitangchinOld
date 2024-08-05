@@ -1,8 +1,8 @@
 # Table of Content
-- [Professional Projects](#professional-projects-)
+- [Projects](#projects-)
 - [Certifications](#certifications-)
 
-#Projects
+# Projects
 
 ### JPI Tips Electron App
 
