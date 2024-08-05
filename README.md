@@ -1,24 +1,24 @@
-# Projects
-
-### JPI Tips App
+## JPI Tips App
 
 **Tech Stack:** React/TypeScript/Electron/Jest
 
 [Github Link](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
-The solution proposal reduces common end-user errors and improves the efficiency of technical training.
+### The solution proposal 
+
+Reduces common end-user errors and improves the efficiency of technical training.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
-#
-
-### JPI Simplified SMTP Email App C# Code Snippet
+## JPI Simplified SMTP Email App C# Code Snippet
 
 **Tech Stack:** C#/.NET
 
 [Github Link](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
-The solution proposal improves unintuitive software email setup to reduce related support call volume.
+###  The solution proposal 
+
+Improves unintuitive software email setup to reduce related support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
