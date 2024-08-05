@@ -36,8 +36,7 @@
     <summary> Kyu 1 - 10 </summary>
 </details>
 
-
-- [Github Link](https://github.com/chitangchin/CodewarKata)
+- [Link to Solutions](https://github.com/chitangchin/CodewarKata)
 
 # Projects
 
@@ -45,7 +44,7 @@
 
 ### Solution Proposal 
 
-Reduces common end-user errors by providing maintenance and troubleshooting tips, improving technical training efficiency, and reducing overall support call volume.
+Reduces common end-user errors by providing maintenance and troubleshooting tips resulting in improved technical training efficiency and overall support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
@@ -55,7 +54,7 @@ Reduces common end-user errors by providing maintenance and troubleshooting tips
 
 ###  Solution Proposal 
 
-Improves unintuitive software email setup by providing step-by-step instructions and removing redundancies to reduce related support call volume.
+Improves unintuitive software email setup by providing step-by-step instructions and removing redundancies resulting in reduced related support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
