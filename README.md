@@ -4,21 +4,21 @@
 
 ### (Level - Total No. of Questions - Link to Collection)
 
-Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8
+Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
 
-Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7
+Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
 
-Kyu 6 - 40
+Kyu 6 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-6 </summary>
 
-Kyu 5 - 50
+Kyu 5 - 50 - https://www.codewars.com/collections/c-number-preparation-kyu-5 </summary>
 
-Kyu 4 - 40
+Kyu 4 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-4 </summary>
 
-Kyu 3 - 30
+Kyu 3 - 26 - https://www.codewars.com/collections/c-number-preparation-kyu-3 </summary>
 
-Kyu 2 - 20
+Kyu 2 - 16  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
 
-Kyu 1 - 10
+Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
 
 [Solutions Repo](https://github.com/chitangchin/CodewarKata)
 
