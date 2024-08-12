@@ -1,8 +1,8 @@
 # Algorithms and Data Structures
 
-## Codewar Kata Prep
+### Codewar Kata Prep
 
-### (Level - Total No. of Questions - Link to Collection)
+#### (Level - Total No. of Questions - Link to Collection)
 
 Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
 
@@ -24,9 +24,9 @@ Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </su
 
 # Projects
 
-## JPI Tips App
+### JPI Tips App
 
-### Solution Proposal 
+#### Solution Proposal 
 
 Reduces common end-user errors by providing maintenance and troubleshooting tips resulting in improved technical training efficiency and overall support call volume.
 
@@ -34,9 +34,9 @@ Reduces common end-user errors by providing maintenance and troubleshooting tips
 
 - [Github Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
-## JPI Email Workflow Simplified
+### JPI Email Workflow Simplified
 
-###  Solution Proposal 
+####  Solution Proposal 
 
 Improves unintuitive software email setup by providing step-by-step instructions and removing redundancies resulting in reduced related support call volume.
 
