@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+## Algorithms and Data Structures
 
 ### Codewar Kata Prep
 
@@ -24,7 +24,15 @@ Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </su
 
 [Solutions Repo](https://github.com/chitangchin/CodewarKata)
 
-# Projects
+## C# SandBox
+
+Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more.
+
+[Unit Tests](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest)
+
+[Implementation](https://github.com/chitangchin/Box/tree/master/Practice/PracticeCollection)
+
+## Projects
 
 ### JPI Tips App
 
@@ -46,7 +54,7 @@ Improves unintuitive software email setup by providing step-by-step instructions
 
 - [Github Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
-# Certifications
+## Certifications
 
 - Microsoft AZ-900: Azure Fundamentals
 - Microsoft Foundational C#
