@@ -28,9 +28,9 @@ Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </su
 
 Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more.
 
-[Unit Tests](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest)
+[Units](https://github.com/chitangchin/Box/tree/master/Practice/PracticeCollection)
 
-[Implementation](https://github.com/chitangchin/Box/tree/master/Practice/PracticeCollection)
+[Unit Tests](https://github.com/chitangchin/Box/blob/master/Practice/PracticeCollectionTest)
 
 ## Projects
 
