@@ -40,7 +40,7 @@ Reduces common end-user errors by providing maintenance and troubleshooting tips
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
-- [Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
+[Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
 ### JPI Email Workflow Simplified
 
@@ -50,7 +50,7 @@ Improves unintuitive software email setup by providing step-by-step instructions
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
-- [Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
+[Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
 ## Certifications
 
