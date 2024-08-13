@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures
 
-### Codewar Kata Prep
+#### Codewar Kata Prep
 
 <image src="https://www.codewars.com/users/chitangchin/badges/large"/>
 
