@@ -1,28 +1,28 @@
 ## Algorithms and Data Structures
 
-### [Codewar Kata Prep](https://github.com/chitangchin/CodewarKata)
+### [Codewar Kata Solutions](https://github.com/chitangchin/CodewarKata)
 
-#### (Level - Total No. of Questions - Link to Collection)
+#### List of My Collection
 
-Kyu 8 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
+[Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
-Kyu 7 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
+[Kyu 7 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-7)
 
-Kyu 6 - https://www.codewars.com/collections/c-number-preparation-kyu-6 </summary>
+[Kyu 6 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-6)
 
-Kyu 5 - https://www.codewars.com/collections/c-number-preparation-kyu-5 </summary>
+[Kyu 5 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-5)
 
-Kyu 4 - https://www.codewars.com/collections/c-number-preparation-kyu-4 </summary>
+[Kyu 4 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-4)
 
-Kyu 3 - https://www.codewars.com/collections/c-number-preparation-kyu-3 </summary>
+[Kyu 3 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-3)
 
-Kyu 2 - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
+[Kyu 2 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-2)
 
-Kyu 1 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
+[Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
 
 ### [C# SandBox](https://github.com/chitangchin/Box)
 
-Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more with **Unit Tests**
+Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more
 
 ## Personal Projects
 
