@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures
 
-#### [Codewar Kata Prep](https://github.com/chitangchin/CodewarKata)
+### [Codewar Kata Prep](https://github.com/chitangchin/CodewarKata)
 
 <image src="https://www.codewars.com/users/chitangchin/badges/large"/>
 
@@ -22,7 +22,7 @@ Kyu 2 - 16  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </
 
 Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
 
-## [C# SandBox](https://github.com/chitangchin/Box)
+### [C# SandBox](https://github.com/chitangchin/Box)
 
 Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more with **Unit Tests**
 
@@ -35,8 +35,6 @@ Personal Sandbox to practice implementation, fundamentals, methods, OOP, and mor
 Concept to reduce common end-user errors by providing maintenance and troubleshooting tips to improve technical training efficiency and reduce overall support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
-
-#
 
 ### [JPI Email Workflow Refactoring Concept](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
