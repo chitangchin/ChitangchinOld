@@ -2,7 +2,7 @@
 
 ### [Codewar Kata Solutions](https://github.com/chitangchin/CodewarKata)
 
-#### List of My Collection
+#### List of my Codewar Collection
 
 - [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
