@@ -1,6 +1,6 @@
 ## Algorithms and Data Structures
 
-#### Codewar Kata Prep
+#### [Codewar Kata Prep](https://github.com/chitangchin/CodewarKata)
 
 <image src="https://www.codewars.com/users/chitangchin/badges/large"/>
 
@@ -22,17 +22,13 @@ Kyu 2 - 16  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </
 
 Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
 
-[Repo](https://github.com/chitangchin/CodewarKata)
-
-## C# SandBox
+## [C# SandBox](https://github.com/chitangchin/Box)
 
 Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more with **Unit Tests**
 
-[Repo](https://github.com/chitangchin/Box)
-
 ## Personal Projects
 
-### JPI Tips App Concept
+### [JPI Tips App Concept](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
 #### Solution Proposal 
 
@@ -40,19 +36,15 @@ Concept to reduce common end-user errors by providing maintenance and troublesho
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
-[Repo](https://github.com/chitangchin/JPI-Tips-Window-App) 
-
 #
 
-### JPI Email Workflow Refactoring Concept
+### [JPI Email Workflow Refactoring Concept](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
 ####  Solution Proposal 
 
 Concept to improve unintuitive software email setup by providing step-by-step instructions and removing redundancies to reduce related support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
-
-[Repo](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
 
 ## Certifications
 
