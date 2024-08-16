@@ -1,4 +1,4 @@
-## Algorithms, Data Structures, and Fundamentals
+## Algorithms and Data Structures
 
 ### [Codewar Kata Solutions](https://github.com/chitangchin/CodewarKata)
 
@@ -21,10 +21,6 @@
 - [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
 
 </details>
-
-### [C# SandBox](https://github.com/chitangchin/Box)
-
-Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more
 
 ## Personal Projects (View Pinned for more projects)
 
