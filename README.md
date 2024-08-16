@@ -1,4 +1,4 @@
-## Algorithms and Data Structures
+## Algorithms, Data Structures, and Fundamentals
 
 ### [Codewar Kata Solutions](https://github.com/chitangchin/CodewarKata)
 
