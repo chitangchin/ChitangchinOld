@@ -40,7 +40,7 @@ Concept to reduce common end-user errors by providing maintenance and troublesho
 
 Concept to improve unintuitive software email setup by providing step-by-step instructions and removing redundancies to reduce related support call volume.
 
-<img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
+<img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
 
 ## Certifications
 
