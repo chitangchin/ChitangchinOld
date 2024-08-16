@@ -59,5 +59,3 @@ Improves unintuitive software email setup by providing step-by-step instructions
 - Microsoft AZ-900: Azure Fundamentals
 - Microsoft Foundational C#
 - CompTIA ITF+
-- Jira Fundamental
-- NYS IT Specialist 1 & 2
