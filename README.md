@@ -2,8 +2,6 @@
 
 ### [Codewar Kata Prep](https://github.com/chitangchin/CodewarKata)
 
-<image src="https://www.codewars.com/users/chitangchin/badges/large"/>
-
 #### (Level - Total No. of Questions - Link to Collection)
 
 Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
