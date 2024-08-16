@@ -26,7 +26,7 @@
 
 Personal Sandbox to practice implementation, fundamentals, methods, OOP, and more
 
-## Personal Projects
+## Personal Projects (View Pinned for more projects)
 
 ### [JPI Tips App Concept](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
