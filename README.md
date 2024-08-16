@@ -30,9 +30,9 @@ Personal Sandbox to practice implementation, fundamentals, methods, OOP, and mor
 
 [Repo](https://github.com/chitangchin/Box)
 
-## Projects
+## Personal Projects
 
-### JPI Tips App
+### JPI Tips App Concept
 
 #### Solution Proposal 
 
