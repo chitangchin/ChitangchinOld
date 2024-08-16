@@ -4,21 +4,21 @@
 
 #### List of My Collection
 
-[Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
+- [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
-[Kyu 7 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-7)
+- [Kyu 7 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-7)
 
-[Kyu 6 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-6)
+- [Kyu 6 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-6)
 
-[Kyu 5 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-5)
+- [Kyu 5 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-5)
 
-[Kyu 4 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-4)
+- [Kyu 4 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-4)
 
-[Kyu 3 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-3)
+- [Kyu 3 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-3)
 
-[Kyu 2 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-2)
+- [Kyu 2 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-2)
 
-[Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
+- [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
 
 ### [C# SandBox](https://github.com/chitangchin/Box)
 
