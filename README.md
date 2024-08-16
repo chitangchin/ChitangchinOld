@@ -2,7 +2,7 @@
 
 ### [Codewar Kata Solutions](https://github.com/chitangchin/CodewarKata)
 
-#### List of my Codewar Collection
+<details><summary>List of my Codewar Collection</summary>
 
 - [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
@@ -19,6 +19,8 @@
 - [Kyu 2 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-2)
 
 - [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
+
+</details>
 
 ### [C# SandBox](https://github.com/chitangchin/Box)
 
