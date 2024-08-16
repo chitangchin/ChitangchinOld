@@ -36,7 +36,7 @@ Personal Sandbox to practice implementation, fundamentals, methods, OOP, and mor
 
 #### Solution Proposal 
 
-Reduces common end-user errors by providing maintenance and troubleshooting tips resulting in improved technical training efficiency and overall support call volume.
+Concept to reduce common end-user errors by providing maintenance and troubleshooting tips to improve technical training efficiency and reduce overall support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
@@ -44,11 +44,11 @@ Reduces common end-user errors by providing maintenance and troubleshooting tips
 
 #
 
-### JPI Email Workflow Simplified
+### JPI Email Workflow Refactoring Concept
 
 ####  Solution Proposal 
 
-Improves unintuitive software email setup by providing step-by-step instructions and removing redundancies resulting in reduced related support call volume.
+Concept to improve unintuitive software email setup by providing step-by-step instructions and removing redundancies to reduce related support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/b6f19af5-91a9-4c85-a1e0-f55e91d29ff7" height="300px"/>
 
