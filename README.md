@@ -4,21 +4,21 @@
 
 #### (Level - Total No. of Questions - Link to Collection)
 
-Kyu 8 - 20 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
+Kyu 8 - https://www.codewars.com/collections/c-number-preparation-kyu-8 </summary>
 
-Kyu 7 - 30 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
+Kyu 7 - https://www.codewars.com/collections/c-number-preparation-kyu-7 </summary>
 
-Kyu 6 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-6 </summary>
+Kyu 6 - https://www.codewars.com/collections/c-number-preparation-kyu-6 </summary>
 
-Kyu 5 - 50 - https://www.codewars.com/collections/c-number-preparation-kyu-5 </summary>
+Kyu 5 - https://www.codewars.com/collections/c-number-preparation-kyu-5 </summary>
 
-Kyu 4 - 40 - https://www.codewars.com/collections/c-number-preparation-kyu-4 </summary>
+Kyu 4 - https://www.codewars.com/collections/c-number-preparation-kyu-4 </summary>
 
-Kyu 3 - 26 - https://www.codewars.com/collections/c-number-preparation-kyu-3 </summary>
+Kyu 3 - https://www.codewars.com/collections/c-number-preparation-kyu-3 </summary>
 
-Kyu 2 - 16  - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
+Kyu 2 - https://www.codewars.com/collections/c-number-preparation-kyu-2 </summary>
 
-Kyu 1 - 6 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
+Kyu 1 - https://www.codewars.com/collections/c-number-preparation-kyu-1 </summary>
 
 ### [C# SandBox](https://github.com/chitangchin/Box)
 
