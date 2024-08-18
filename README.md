@@ -26,7 +26,7 @@
 
 </details>
 
-#### Leetcode and Codewar Stats
+### Leetcode and Codewar Stats
 
 ![](https://leetcard.jacoblin.cool/chitangchin?theme=dark)
 
