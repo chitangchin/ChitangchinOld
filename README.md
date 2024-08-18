@@ -4,7 +4,7 @@
 
 - [Link to Problem Set](https://leetcode.com/studyplan/top-interview-150/)
 
-### [Codewar Kata Solutions](https://github.com/chitangchin/CodewarKata)
+### [Codewar Kata Collection](https://github.com/chitangchin/CodewarKata)
 
 <details><summary>List of my Codewar Collection</summary>
 
