@@ -2,7 +2,7 @@
 
 ### [LeetCode Interview 150 Set](https://github.com/chitangchin/LeetCodeInterview150)
 
-- [Link to Problem Set](https://leetcode.com/studyplan/top-interview-150/)
+- [Link to Problem Set on LeetCode](https://leetcode.com/studyplan/top-interview-150/)
 
 ### [Codewar Kata Collection](https://github.com/chitangchin/CodewarKata)
 
