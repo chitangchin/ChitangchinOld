@@ -28,7 +28,7 @@
 
 #### Leetcode and Codewar Stats
 
-![](https://leetcard.jacoblin.cool/chitangchin?theme=unicorn)
+![](https://leetcard.jacoblin.cool/chitangchin?theme=dark)
 
 ![](https://www.codewars.com/users/chitangchin/badges/large)
 
