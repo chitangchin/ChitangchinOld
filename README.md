@@ -6,7 +6,7 @@
 
 ### [Codewar Kata Collection](https://github.com/chitangchin/CodewarKata)
 
-<details><summary>List of my Codewar Collection</summary>
+List of my Codewar Collection
 
 - [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
