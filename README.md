@@ -24,7 +24,7 @@ List of my Codewar Collection
 
 - [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
 
-## Leetcode and Codewar Stats
+#### Leetcode and Codewar Stats
 
 ![](https://leetcard.jacoblin.cool/chitangchin?theme=light,unicorn)
 
