@@ -6,7 +6,7 @@
 
 ### [Codewar Kata Collection](https://github.com/chitangchin/CodewarKata)
 
-List of my Codewar Collection
+<details><summary>List of my Codewar Collection</summary>
 
 - [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
@@ -24,9 +24,11 @@ List of my Codewar Collection
 
 - [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
 
+</details>
+
 #### Leetcode and Codewar Stats
 
-![](https://leetcard.jacoblin.cool/chitangchin?theme=light,unicorn)
+![](https://leetcard.jacoblin.cool/chitangchin?theme=unicorn)
 
 ![](https://www.codewars.com/users/chitangchin/badges/large)
 
