@@ -26,7 +26,9 @@
 
 </details>
 
-### Leetcode and Codewar Stats
+### [Codility Developer Training](https://github.com/chitangchin/CodilityDeveloperTraining)
+
+### [Leetcode](https://leetcode.com/u/chitangchin/) and [Codewar](https://www.codewars.com/users/chitangchin) Stats
 
 ![](https://leetcard.jacoblin.cool/chitangchin?theme=dark)
 
