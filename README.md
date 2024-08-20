@@ -30,7 +30,7 @@
 
 ### [Leetcode](https://leetcode.com/u/chitangchin/) and [Codewar](https://www.codewars.com/users/chitangchin) Stats
 
-![](https://leetcard.jacoblin.cool/chitangchin?theme=dark)
+![](https://leetcard.jacoblin.cool/chitangchin?ext=heatmap))
 
 ![](https://www.codewars.com/users/chitangchin/badges/large)
 
