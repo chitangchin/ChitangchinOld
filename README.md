@@ -1,4 +1,6 @@
 
+![Brandon Chin](https://github.com/user-attachments/assets/25e890f0-41a0-45f9-b2a8-77e6e73e0d4d)
+
 <h3 align="center">Technical Service Specialist and Developer</h3>
 
 <p align="left">
