@@ -11,14 +11,14 @@
 ● [Jira Fundamentals](https://university.atlassian.com/student/award/jDn1n6JUTkL5CeKzL1GJHD9b)
 
 
-## Table of Content
+## Table of Contents
 
 - [C# & .Net Practice](#c--net-practice)
   - [Advanced .NET Programming](#advanced-net-programming-currently-learning)
   - [C# Fundamentals](#c-fundamentals)
 - [Algorithm and Data Structures](#c--net-practice)
   - [Leetcode Interview 150](#leetcode-interview-150-set)
-  - [Codewar Kata Collection](#leetcode-interview-150-set)
+  - [Codewars Kata Collection](#leetcode-interview-150-set)
   - [Codility Developer Training](#codility-developer-training)
 - [Projects](#personal-projects-view-pinned-for-more-projects)
   - [JPI Tips App Concept](#pinned-projects)
@@ -61,11 +61,11 @@ Modules:
 
 - [Link to Problem Set on LeetCode](https://leetcode.com/studyplan/top-interview-150/)
 
-### Codewar Kata Collection
+### Codewars Kata Collection
 
 ##### [Github Repository](https://github.com/chitangchin/CodewarKata)
 
-<details><summary>List of my Codewar Collection</summary>
+<details><summary>List of my Codewars Collection</summary>
 
 - [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
 
@@ -107,7 +107,7 @@ Tech Stack: TypeScript, React.js, Electron.js
 
 #### Solution Proposal 
 
-Concept to reduce common end-user errors by providing maintenance and troubleshooting tips to improve technical training efficiency and reduce overall support call volume.
+A concept to address common end-user errors by providing maintenance and troubleshooting tips, resulting in improved technical training efficiency and reduced overall support call volume.
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
@@ -119,7 +119,7 @@ Tech Stack: C#, .Net
 
 ####  Solution Proposal 
 
-Concept to improve unintuitive software email setup by providing step-by-step instructions and removing redundancies to reduce related support call volume.
+Concept to address unintuitive software email setup by providing step-by-step instructions, removing redundancies, and reducing support call volume related to email setup.
 
 <img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
 
