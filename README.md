@@ -16,7 +16,7 @@
 - [C# & .Net Practice](#c--net-practice)
   - [Advanced .NET Programming](#advanced-net-programming-currently-learning)
   - [C# Fundamentals](#c-fundamentals)
-- [Algorithm and Data Structures (Started July 2024)](#algorithms-and-data-structures)
+- [Algorithm and Data Structures](#algorithms-and-data-structures)
   - [Leetcode Interview 150](#leetcode-interview-150-set)
   - [Codewars Kata Collection](#codewars-kata-collection)
   - [Codility Developer Training](#codility-developer-training)
@@ -55,7 +55,7 @@ Modules:
 
 ## Algorithms and Data Structures
 
-I recently started studying Algorithms and Data Structures in C# in July 2024
+I recently started studying Algorithms and Data Structures in C#
 
 ### LeetCode Interview 150 Set
 
