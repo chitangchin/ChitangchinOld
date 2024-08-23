@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitangchin&show_icons=true&locale=en" alt="chitangchin" /></p>
 
-## C# Practice
+## C# & .NET Practice
 
 ### Advanced .NET Programming
 
@@ -25,6 +25,15 @@ Modules:
 - Threading
 - Native Interoperability
 - Memory Management
+
+### C# Sandbox and Fundamentals
+
+Practicing Fundamental Concepts from [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) from Microsoft
+
+Modules:
+- Fundamentals
+- Key Concepts
+- Advanced Concepts
 
 ## Algorithms and Data Structures
 
