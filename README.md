@@ -95,6 +95,8 @@ Modules:
 
 ### [JPI Tips App Concept](https://github.com/chitangchin/JPI-Tips-Window-App) 
 
+Tech Stack: TypeScript, React.js, Electron.js
+
 #### Solution Proposal 
 
 Concept to reduce common end-user errors by providing maintenance and troubleshooting tips to improve technical training efficiency and reduce overall support call volume.
@@ -102,6 +104,8 @@ Concept to reduce common end-user errors by providing maintenance and troublesho
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
 ### [JPI Email Workflow Refactoring Concept](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
+
+Tech Stack: C#, .Net
 
 ####  Solution Proposal 
 
