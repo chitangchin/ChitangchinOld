@@ -51,6 +51,8 @@ Modules:
 - Key Concepts
 - Advanced Concepts
 
+##### ↩️[Back To Table of Contents](#table-of-content)
+
 ## Algorithms and Data Structures
 
 ### [LeetCode Interview 150 Set](https://github.com/chitangchin/LeetCodeInterview150)
@@ -87,6 +89,8 @@ Modules:
 
 ![](https://www.codewars.com/users/chitangchin/badges/large)
 
+##### ↩️[Back To Table of Contents](#table-of-content)
+
 ## Personal Projects (View Pinned for more projects)
 
 ### [JPI Tips App Concept](https://github.com/chitangchin/JPI-Tips-Window-App) 
@@ -106,3 +110,5 @@ Concept to improve unintuitive software email setup by providing step-by-step in
 <img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
 
 ## Pinned Projects
+
+##### ↩️[Back To Table of Contents](#table-of-content)
