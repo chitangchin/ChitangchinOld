@@ -59,31 +59,9 @@ Modules:
 
 ##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
 
-- [Link to Problem Set on LeetCode](https://leetcode.com/studyplan/top-interview-150/)
-
 ### Codewars Kata Collection
 
 ##### [Github Repository](https://github.com/chitangchin/CodewarKata)
-
-<details><summary>List of my Codewars Collection</summary>
-
-- [Kyu 8 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-8)
-
-- [Kyu 7 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-7)
-
-- [Kyu 6 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-6)
-
-- [Kyu 5 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-5)
-
-- [Kyu 4 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-4)
-
-- [Kyu 3 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-3)
-
-- [Kyu 2 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-2)
-
-- [Kyu 1 Collection](https://www.codewars.com/collections/c-number-preparation-kyu-1)
-
-</details>
 
 ### Codility Developer Training
 
