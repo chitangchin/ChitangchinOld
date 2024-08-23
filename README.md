@@ -17,9 +17,9 @@
   - [Advanced .NET Programming](#advanced-net-programming-currently-learning)
   - [C# Fundamentals](#c-fundamentals)
 - [Algorithm and Data Structures (Started July 2024)](#algorithms-and-data-structures)
-  - [Leetcode Interview 150](#leetcode-interview-150-set-started-july-2024)
-  - [Codewars Kata Collection](#codewars-kata-collection-started-july-2024)
-  - [Codility Developer Training](#codility-developer-training-started-july-2024)
+  - [Leetcode Interview 150](#leetcode-interview-150-set)
+  - [Codewars Kata Collection](#codewars-kata-collection)
+  - [Codility Developer Training](#codility-developer-training)
 - [Projects](#personal-projects-view-pinned-for-more-projects)
   - [JPI Tips App Concept](#jpi-tips-app-concept)
   - [JPI Email Workflow Refactoring Concept](#jpi-email-workflow-refactoring-concept)
@@ -55,15 +55,17 @@ Modules:
 
 ## Algorithms and Data Structures
 
-### LeetCode Interview 150 Set (Started July 2024)
+I recently started studying Algorithms and Data Structures in C# in July 2024
+
+### LeetCode Interview 150 Set
 
 ##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
 
-### Codewars Kata Collection (Started July 2024)
+### Codewars Kata Collection
 
 ##### [Github Repository](https://github.com/chitangchin/CodewarKata)
 
-### Codility Developer Training (Started July 2024)
+### Codility Developer Training
 
 ##### [Github Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
 
