@@ -55,11 +55,15 @@ Modules:
 
 ## Algorithms and Data Structures
 
-### [LeetCode Interview 150 Set](https://github.com/chitangchin/LeetCodeInterview150)
+### LeetCode Interview 150 Set
+
+##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
 
 - [Link to Problem Set on LeetCode](https://leetcode.com/studyplan/top-interview-150/)
 
-### [Codewar Kata Collection](https://github.com/chitangchin/CodewarKata)
+### Codewar Kata Collection
+
+##### [Github Repository](https://github.com/chitangchin/CodewarKata)
 
 <details><summary>List of my Codewar Collection</summary>
 
@@ -81,7 +85,9 @@ Modules:
 
 </details>
 
-### [Codility Developer Training](https://github.com/chitangchin/CodilityDeveloperTraining)
+### Codility Developer Training
+
+##### [Github Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
 
 ### [Leetcode](https://leetcode.com/u/chitangchin/) and [Codewar](https://www.codewars.com/users/chitangchin) Stats
 
@@ -93,7 +99,9 @@ Modules:
 
 ## Personal Projects (View Pinned for more projects)
 
-### [JPI Tips App Concept](https://github.com/chitangchin/JPI-Tips-Window-App) 
+### JPI Tips App Concept 
+
+##### [Github Repository](https://github.com/chitangchin/JPI-Tips-Window-App)
 
 Tech Stack: TypeScript, React.js, Electron.js
 
@@ -103,7 +111,9 @@ Concept to reduce common end-user errors by providing maintenance and troublesho
 
 <img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
 
-### [JPI Email Workflow Refactoring Concept](https://github.com/chitangchin/Simplified-SMTP-Email-App) 
+### JPI Email Workflow Refactoring Concept 
+
+##### [Github Repository](https://github.com/chitangchin/Simplified-SMTP-Email-App)
 
 Tech Stack: C#, .Net
 
