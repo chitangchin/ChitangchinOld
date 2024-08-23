@@ -13,6 +13,18 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chitangchin&show_icons=true&locale=en" alt="chitangchin" /></p>
 
+## C# Practice
+
+### Advanced .NET Programming
+
+Practicing Core Concepts from [Advanced .NET Programming Documentation](https://learn.microsoft.com/en-us/dotnet/navigate/advanced-programming/) from Microsoft
+
+Modules:
+- Asynchronous Programming Patterns
+- Parallel Programming
+- Threading
+- Native Interoperability
+- Memory Management
 
 ## Algorithms and Data Structures
 
