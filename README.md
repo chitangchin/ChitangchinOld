@@ -17,9 +17,9 @@
 
 ### Advanced .NET Programming (Currently Learning)
 
-Practicing Core Concepts from [Advanced .NET Programming Documentation](https://learn.microsoft.com/en-us/dotnet/navigate/advanced-programming/) from Microsoft
+##### [Github Repository](https://github.com/chitangchin/AdvancedDotNETProgramming)
 
-[Github Repository](https://github.com/chitangchin/AdvancedDotNETProgramming)
+#### Practicing Core Concepts from [Advanced .NET Programming Documentation](https://learn.microsoft.com/en-us/dotnet/navigate/advanced-programming/) from Microsoft
 
 Modules:
 - Asynchronous Programming Patterns
@@ -28,7 +28,9 @@ Modules:
 - Native Interoperability
 - Memory Management
 
-### C# Sandbox and Fundamentals (Currently Learning)
+### C# Fundamentals
+
+##### [Github Repository](https://github.com/chitangchin/CSharpFundamentals)
 
 Practicing Fundamental Concepts from [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) from Microsoft
 
