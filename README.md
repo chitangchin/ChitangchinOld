@@ -55,15 +55,15 @@ Modules:
 
 ## Algorithms and Data Structures
 
-### LeetCode Interview 150 Set
+### LeetCode Interview 150 Set (Started July 2024)
 
 ##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
 
-### Codewars Kata Collection
+### Codewars Kata Collection (Started July 2024)
 
 ##### [Github Repository](https://github.com/chitangchin/CodewarKata)
 
-### Codility Developer Training
+### Codility Developer Training (Started July 2024)
 
 ##### [Github Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
 
