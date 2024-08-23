@@ -19,6 +19,8 @@
 
 Practicing Core Concepts from [Advanced .NET Programming Documentation](https://learn.microsoft.com/en-us/dotnet/navigate/advanced-programming/) from Microsoft
 
+[Github Repository](https://github.com/chitangchin/AdvancedDotNETProgramming)
+
 Modules:
 - Asynchronous Programming Patterns
 - Parallel Programming
