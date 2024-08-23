@@ -3,6 +3,28 @@
 
 <h3 align="center">Technical Service Specialist and Developer</h3>
 
+
+#### Certifications
+[Microsoft AZ-900: Azure Fundamentals](https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url)
+● [Microsoft Foundational C#](https://www.freecodecamp.org/certification/fcc57182351-d5f8-4c35-a817-7a6d2a075fca/foundational-c-sharp-with-microsoft)
+● [CompTIA ITF+](https://www.credly.com/badges/e7ce6dfc-f0a4-4244-91ef-2f929f364fc2)
+● [Jira Fundamentals](https://university.atlassian.com/student/award/jDn1n6JUTkL5CeKzL1GJHD9b)
+
+
+## Table of Content
+
+- [C# & .Net Practice](#c--net-practice)
+  - [Advanced .NET Programming](#advanced-net-programming-currently-learning)
+  - [C# Fundamentals](#c-fundamentals)
+- [Algorithm and Data Structures](#c--net-practice)
+  - [Leetcode Interview 150](#leetcode-interview-150-set)
+  - [Codewar Kata Collection](#leetcode-interview-150-set)
+  - [Codility Developer Training](#codility-developer-training)
+- [Projects](#personal-projects-view-pinned-for-more-projects)
+  - [JPI Tips App Concept](#pinned-projects)
+  - [JPI Email Workflow Refactoring Concept](#pinned-projects)
+  - [Pinned Projects](#pinned-projects)   
+
 ## C# & .NET Practice
 
 ### Advanced .NET Programming (Currently Learning)
@@ -83,9 +105,4 @@ Concept to improve unintuitive software email setup by providing step-by-step in
 
 <img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
 
-## Certifications
-
-- [Microsoft AZ-900: Azure Fundamentals](https://www.credly.com/badges/7b7dca40-ba56-499e-af72-250bc65705aa/public_url)
-- [Microsoft Foundational C#](https://www.freecodecamp.org/certification/fcc57182351-d5f8-4c35-a817-7a6d2a075fca/foundational-c-sharp-with-microsoft)
-- [CompTIA ITF+](https://www.credly.com/badges/e7ce6dfc-f0a4-4244-91ef-2f929f364fc2)
-- [Jira Fundamentals](https://university.atlassian.com/student/award/jDn1n6JUTkL5CeKzL1GJHD9b)
+## Pinned Projects
