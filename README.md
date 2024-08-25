@@ -27,7 +27,7 @@
 
 ## C# & .NET Practice
 
-### Advanced .NET Programming (Currently Learning)
+### Advanced .NET Programming
 
 ##### [Github Repository](https://github.com/chitangchin/AdvancedDotNETProgramming)
 
