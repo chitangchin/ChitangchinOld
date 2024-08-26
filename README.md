@@ -24,7 +24,7 @@
   - [Advanced .NET Programming](#advanced-net-programming)
   - [C# Fundamentals](#c-fundamentals)
 
-## Personal Projects (View Pinned for more projects)
+## Personal Projects ([View Pinned](#pinned-projects) for more projects)
 
 ### JPI Tips App Concept 
 
