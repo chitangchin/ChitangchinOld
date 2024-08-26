@@ -50,6 +50,8 @@ Concept to address unintuitive software email setup by providing step-by-step in
 
 <img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
 
+##### ↩️[Back To Table of Contents](#table-of-contents)
+
 ## Algorithms and Data Structures
 
 I recently started studying Algorithms and Data Structures in C#
@@ -72,7 +74,7 @@ I recently started studying Algorithms and Data Structures in C#
 
 ![](https://www.codewars.com/users/chitangchin/badges/large)
 
-##### ↩️[Back To Table of Contents](#table-of-content)
+##### ↩️[Back To Table of Contents](#table-of-contents)
 
 ## C# & .NET Practice
 
@@ -100,8 +102,8 @@ Modules:
 - Key Concepts
 - Advanced Concepts
 
-##### ↩️[Back To Table of Contents](#table-of-content)
+##### ↩️[Back To Table of Contents](#table-of-contents)
 
 ## Pinned Projects
 
-##### ↩️[Back To Table of Contents](#table-of-content)
+##### ↩️[Back To Table of Contents](#table-of-contents)
