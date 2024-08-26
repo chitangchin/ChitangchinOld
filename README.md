@@ -23,7 +23,6 @@
 - [C# & .Net Practice](#c--net-practice)
   - [Advanced .NET Programming](#advanced-net-programming)
   - [C# Fundamentals](#c-fundamentals)
-- [Pinned Projects](#pinned-projects)  
 
 ## Personal Projects (View Pinned for more projects)
 
