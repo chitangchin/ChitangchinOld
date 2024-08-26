@@ -13,17 +13,67 @@
 
 ## Table of Contents
 
-- [C# & .Net Practice](#c--net-practice)
-  - [Advanced .NET Programming](#advanced-net-programming-currently-learning)
-  - [C# Fundamentals](#c-fundamentals)
+- [Projects](#personal-projects-view-pinned-for-more-projects)
+  - [JPI Tips App Concept](#jpi-tips-app-concept)
+  - [JPI Email Workflow Refactoring Concept](#jpi-email-workflow-refactoring-concept)
 - [Algorithm and Data Structures](#algorithms-and-data-structures)
   - [Leetcode Interview 150](#leetcode-interview-150-set)
   - [Codewars Kata Collection](#codewars-kata-collection)
   - [Codility Developer Training](#codility-developer-training)
-- [Projects](#personal-projects-view-pinned-for-more-projects)
-  - [JPI Tips App Concept](#jpi-tips-app-concept)
-  - [JPI Email Workflow Refactoring Concept](#jpi-email-workflow-refactoring-concept)
-  - [Pinned Projects](#pinned-projects)   
+- [C# & .Net Practice](#c--net-practice)
+  - [Advanced .NET Programming](#advanced-net-programming)
+  - [C# Fundamentals](#c-fundamentals)
+- [Pinned Projects](#pinned-projects)  
+
+## Personal Projects (View Pinned for more projects)
+
+### JPI Tips App Concept 
+
+##### [Github Repository](https://github.com/chitangchin/JPI-Tips-Window-App)
+
+Tech Stack: TypeScript, React.js, Electron.js
+
+#### Solution Proposal 
+
+A concept to address common end-user errors by providing maintenance and troubleshooting tips, resulting in improved technical training efficiency and reduced overall support call volume.
+
+<img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
+
+### JPI Email Workflow Refactoring Concept 
+
+##### [Github Repository](https://github.com/chitangchin/Simplified-SMTP-Email-App)
+
+Tech Stack: C#, .Net
+
+####  Solution Proposal 
+
+Concept to address unintuitive software email setup by providing step-by-step instructions, removing redundancies, and reducing support call volume related to email setup.
+
+<img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
+
+## Algorithms and Data Structures
+
+I recently started studying Algorithms and Data Structures in C#
+
+### LeetCode Interview 150 Set
+
+##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
+
+### Codewars Kata Collection
+
+##### [Github Repository](https://github.com/chitangchin/CodewarKata)
+
+### Codility Developer Training
+
+##### [Github Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
+
+### [Leetcode](https://leetcode.com/u/chitangchin/) and [Codewar](https://www.codewars.com/users/chitangchin) Stats
+
+![](https://leetcard.jacoblin.cool/chitangchin?ext=heatmap))
+
+![](https://www.codewars.com/users/chitangchin/badges/large)
+
+##### ↩️[Back To Table of Contents](#table-of-content)
 
 ## C# & .NET Practice
 
@@ -52,56 +102,6 @@ Modules:
 - Advanced Concepts
 
 ##### ↩️[Back To Table of Contents](#table-of-content)
-
-## Algorithms and Data Structures
-
-I recently started studying Algorithms and Data Structures in C#
-
-### LeetCode Interview 150 Set
-
-##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
-
-### Codewars Kata Collection
-
-##### [Github Repository](https://github.com/chitangchin/CodewarKata)
-
-### Codility Developer Training
-
-##### [Github Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
-
-### [Leetcode](https://leetcode.com/u/chitangchin/) and [Codewar](https://www.codewars.com/users/chitangchin) Stats
-
-![](https://leetcard.jacoblin.cool/chitangchin?ext=heatmap))
-
-![](https://www.codewars.com/users/chitangchin/badges/large)
-
-##### ↩️[Back To Table of Contents](#table-of-content)
-
-## Personal Projects (View Pinned for more projects)
-
-### JPI Tips App Concept 
-
-##### [Github Repository](https://github.com/chitangchin/JPI-Tips-Window-App)
-
-Tech Stack: TypeScript, React.js, Electron.js
-
-#### Solution Proposal 
-
-A concept to address common end-user errors by providing maintenance and troubleshooting tips, resulting in improved technical training efficiency and reduced overall support call volume.
-
-<img src="https://github.com/chitangchin/Chitangchin/assets/96362668/e4371c21-a042-4e0f-a944-8677b47b77a3" height="300px"/>
-
-### JPI Email Workflow Refactoring Concept 
-
-##### [Github Repository](https://github.com/chitangchin/Simplified-SMTP-Email-App)
-
-Tech Stack: C#, .Net
-
-####  Solution Proposal 
-
-Concept to address unintuitive software email setup by providing step-by-step instructions, removing redundancies, and reducing support call volume related to email setup.
-
-<img src="https://github.com/user-attachments/assets/67fcac42-c674-4221-827e-0e026b4d3e48" height="300px"/>
 
 ## Pinned Projects
 
