@@ -105,5 +105,3 @@ Modules:
 ##### ↩️[Back To Table of Contents](#table-of-contents)
 
 ## Pinned Projects
-
-##### ↩️[Back To Table of Contents](#table-of-contents)
