@@ -18,6 +18,7 @@
   - [JPI Email Workflow Refactoring Concept](#jpi-email-workflow-refactoring-concept)
 - [Algorithm and Data Structures](#algorithms-and-data-structures)
   - [Leetcode Interview 150](#leetcode-interview-150-set)
+  - [Leetcode Practice Category Exams](#leetcode-practice-category-exams)
   - [Codewars Kata Collection](#codewars-kata-collection)
   - [Codility Developer Training](#codility-developer-training)
 - [C# & .Net Practice](#c--net-practice)
@@ -54,17 +55,27 @@ Concept to address unintuitive software email setup by providing step-by-step in
 
 ## Algorithms and Data Structures
 
-I recently started studying Algorithms and Data Structures in C#
-
 ### LeetCode Interview 150 Set
+
+My C# Solution Set for leetcode interview 150 with unit tests
 
 ##### [Github Repository](https://github.com/chitangchin/LeetCodeInterview150)
 
+### LeetCode Practice Category Exams
+
+Leetcode Interview 150 Exam with a time limit, unique tests, and low setup in C#
+
+##### [Github Repository](https://github.com/chitangchin/Leetcode-Practice-Exams)
+
 ### Codewars Kata Collection
+
+My C# Solution Set for Codewars Kata questions with unit tests
 
 ##### [Github Repository](https://github.com/chitangchin/CodewarKata)
 
 ### Codility Developer Training
+
+My C# Solution Set for Codility practice questions with unit tests
 
 ##### [Github Repository](https://github.com/chitangchin/CodilityDeveloperTraining)
 
