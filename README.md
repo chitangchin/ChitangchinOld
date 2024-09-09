@@ -21,10 +21,7 @@
   - [Leetcode Practice Category Exams](#leetcode-practice-category-exams)
   - [Codewars Kata Collection](#codewars-kata-collection)
   - [Codility Developer Training](#codility-developer-training)
-- [C# & .Net Practice](#c--net-practice)
-  - [Advanced .NET Programming](#advanced-net-programming)
-  - [C# Fundamentals](#c-fundamentals)
-
+    
 ## Personal Projects ([View Pinned](#pinned-projects) for more projects)
 
 ### JPI Tips App Concept 
@@ -84,34 +81,6 @@ My C# Solution Set for Codility practice questions with unit tests
 ![](https://leetcard.jacoblin.cool/chitangchin?ext=heatmap))
 
 ![](https://www.codewars.com/users/chitangchin/badges/large)
-
-##### ↩️[Back To Table of Contents](#table-of-contents)
-
-## C# & .NET Practice
-
-### Advanced .NET Programming
-
-##### [Github Repository](https://github.com/chitangchin/AdvancedDotNETProgramming)
-
-#### Practicing Core Concepts from [Advanced .NET Programming Documentation](https://learn.microsoft.com/en-us/dotnet/navigate/advanced-programming/) from Microsoft
-
-Modules:
-- Asynchronous Programming Patterns
-- Parallel Programming
-- Threading
-- Native Interoperability
-- Memory Management
-
-### C# Fundamentals
-
-##### [Github Repository](https://github.com/chitangchin/CSharpFundamentals)
-
-Practicing Fundamental Concepts from [C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) from Microsoft
-
-Modules:
-- Fundamentals
-- Key Concepts
-- Advanced Concepts
 
 ##### ↩️[Back To Table of Contents](#table-of-contents)
 
