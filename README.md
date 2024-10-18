@@ -15,7 +15,7 @@
 
 ## 📂 Table of Contents
 
-- [Projects](#%EF%B8%8F-personal-projects)
+- [Projects](#%EF%B8%8F-projects)
   - [JPI Tips App Concept](#jpi-tips-app-concept)
   - [JPI Email Workflow Refactoring Concept](#jpi-email-workflow-refactoring-concept)
 - [Algorithms and Data Structures](#-algorithms-and-data-structures)
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Personal Projects
+## 🛠️ Projects
 
 ### JPI Tips App Concept
 
